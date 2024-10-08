@@ -1,0 +1,13 @@
+{
+    "name": "vendor/composer-autoload",
+    "description": "Contoh proyek menggunakan Composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\ComposerAutoload\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
